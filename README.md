@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deborars
 - 👀 I’m interested in JS, HTML, CSS, MySQL, SQL Server, PHP
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and PHP
 
 <!---
 Deborars/Deborars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
